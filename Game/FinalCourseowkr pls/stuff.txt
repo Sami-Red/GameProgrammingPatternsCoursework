@@ -1,0 +1,36 @@
+Item: Strongbox
+Description: A sturdy box. It has seen better times.
+Contents: Red Key, Letter
+Keys: Screwdriver
+
+Item: Red Key
+Description: A tiny key. Someone has painted it red for some reason.
+ 
+Item: Letter
+Description: Junk mail. Not as relevant as you might have hoped.
+ 
+Item: Rubber Duck
+Description: It deserves better than getting left behind in this place.
+
+Item: Screwdriver
+Description: It's a screwdriver, duh.
+ 
+Location: 1
+Name: Outside building
+Description: You are standing in front of a small building.
+Contents: Screwdriver, Strongbox
+WEST 3, Rubber Duck
+NORTH 2, Red Key
+IN 2, Red Key
+ 
+Location: 2
+Name: Inside building
+Description: You are inside a building, a well house for a large spring.
+Contents: Rubber Duck
+SOUTH 1
+OUT 1
+ 
+Location: 3
+Name: Exit
+Description: This is the place you have been looking for.
+  
